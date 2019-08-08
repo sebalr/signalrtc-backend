@@ -32,8 +32,8 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
-./obj 
-
+./obj
 appsettings.json
+localhost.pfx
 obj/Debug/netcoreapp2.2/basic-todo.csproj.CoreCompileInputs.cache
 obj/Debug/netcoreapp2.2/basic-todo.csprojAssemblyReference.cache
